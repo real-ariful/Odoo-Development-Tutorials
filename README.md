@@ -9,3 +9,5 @@ So here we are contributing to the Odoo development Tutorials in our github repo
 Tutorials:
 
 1. Odoo 13 Installation on Ubuntu 18: https://github.com/realariful/Odoo-Development-Tutorials/blob/master/1-Odoo-13-installation-on-ubuntu18.04.md
+
+2. Odoo 13 Create a manifest file: https://github.com/realariful/Odoo-Development-Tutorials/blob/master/1-Odoo-13-installation-on-ubuntu18.04.md
